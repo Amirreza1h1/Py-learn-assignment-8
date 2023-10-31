@@ -6,7 +6,7 @@
 know about dictionary type of data.
 a code for a translateing.
 functional base and work with file.
-creating gif
+creating gif.
 ```
 import imageio
 import os
