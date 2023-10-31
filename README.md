@@ -7,6 +7,7 @@
 <p>a code for a translateing.</p>
 <p>functional base and work with file.</p>
 <p>creating gif.</p>
+
 ```
 import imageio
 import os
