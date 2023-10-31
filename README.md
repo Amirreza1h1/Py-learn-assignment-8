@@ -3,10 +3,10 @@
 ## Python
 
 ### Session 8
-know about dictionary type of data.
-a code for a translateing.
-functional base and work with file.
-creating gif.
+<p>know about dictionary type of data.</p>
+<p>a code for a translateing.</p>
+<p>functional base and work with file.</p>
+<p>creating gif.</p>
 ```
 import imageio
 import os
